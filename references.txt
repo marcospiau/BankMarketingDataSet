@@ -1,0 +1,9 @@
+https://towardsdatascience.com/comparing-different-classification-machine-learning-models-for-an-imbalanced-dataset-fdae1af3677f
+https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28
+https://www.svds.com/learning-imbalanced-classes/#fn1
+https://www.youtube.com/watch?v=X9MZtvvQDR4
+https://www.kaggle.com/questions-and-answers/27589  
+https://scikit-learn.org/stable/modules/learning_curve.html#learning-curve
+https://medium.com/lumiata/cross-validation-for-imbalanced-datasets-9d203ba47e8
+http://people.stat.sc.edu/haigang/sklearn.html
+https://medium.com/lumiata/cross-validation-for-imbalanced-datasets-9d203ba47e8

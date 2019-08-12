@@ -1,0 +1,1 @@
+O objetivo desse projeto é estudar problemas com classes desbalanceadas. 
