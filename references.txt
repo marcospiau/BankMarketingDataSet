@@ -7,3 +7,8 @@ https://scikit-learn.org/stable/modules/learning_curve.html#learning-curve
 https://medium.com/lumiata/cross-validation-for-imbalanced-datasets-9d203ba47e8
 http://people.stat.sc.edu/haigang/sklearn.html
 https://medium.com/lumiata/cross-validation-for-imbalanced-datasets-9d203ba47e8
+https://stats.stackexchange.com/questions/27750/feature-selection-and-cross-validation
+http://logan-mcmanus.com/blog/PipelineEfficiency/
+https://www.nodalpoint.com/not-perform-feature-selection/
+https://asaip.psu.edu/Articles/beware-the-kolmogorov-smirnov-test
+https://pdfs.semanticscholar.org/93ad/3d6bdeb000637503a376c41de6bc42f4145d.pdf
